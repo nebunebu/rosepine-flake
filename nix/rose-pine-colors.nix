@@ -3,7 +3,7 @@
     main = rec {
       base = "191724"; # #191724
       surface = "1f1d2e"; # #1f1d2e
-      overlay = "26233"; # #26233
+      overlay = "26233a"; # #26233
       muted = "6e6a86"; # #6e6a86
       subtle = "908caa"; # #908caa
       text = "e0def4"; # #e0def4
